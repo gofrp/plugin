@@ -14,6 +14,8 @@ Submit a pull request to add awesome plugins you write or find.
 
 ## Third-Party Plugins
 
+* [lukacu/docker-frps](https://github.com/lukacu/docker-frps) - Persistent port reservations and ACMEProxy to automatically secure exposed HTTP connections and redirect them to HTTPS.
+
 ### 中文插件
 
-* [frps-auth](https://github.com/dev-lluo/frps-auth) - 支持为每个代理设置 token 进行鉴权。
+* [dev-lluo/frps-auth](https://github.com/dev-lluo/frps-auth) - 支持为每个代理设置 token 进行鉴权。
