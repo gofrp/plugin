@@ -19,3 +19,4 @@ Submit a pull request to add awesome plugins you write or find.
 ### 中文插件
 
 * [dev-lluo/frps-auth](https://github.com/dev-lluo/frps-auth) - 支持为每个代理设置 token 进行鉴权。
+* [arugal/frp-notify](https://github.com/arugal/frp-notify) - 一个专注于消息通知的服务端管理插件。
