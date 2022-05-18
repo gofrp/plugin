@@ -13,6 +13,7 @@ Submit a pull request to add awesome plugins you write or find.
 * [fp-multiuser](https://github.com/gofrp/fp-multiuser) - Support multiple user authentication.
 
 ## Third-Party Plugins
+* [Parmicciano/frp_plugin_allowed_ports](https://github.com/Parmicciano/frp_plugin_allowed_ports) Allow (and restrict) port and subdomain for specific users.
 
 * [lukacu/docker-frps](https://github.com/lukacu/docker-frps) - Persistent port reservations and ACMEProxy to automatically secure exposed HTTP connections and redirect them to HTTPS.
 
