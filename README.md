@@ -17,8 +17,11 @@ Submit a pull request to add awesome plugins you write or find.
 
 * [lukacu/docker-frps](https://github.com/lukacu/docker-frps) - Persistent port reservations and ACMEProxy to automatically secure exposed HTTP connections and redirect them to HTTPS.
 
+* [frps-multiuser](https://github.com/yhl452493373/frps-multiuser) - A plugin with manage ui to manage user and limit ports, domains, subdomains for each user.
+
 ### 中文插件
 
 * [dev-lluo/frps-auth](https://github.com/dev-lluo/frps-auth) - 支持为每个代理设置 token 进行鉴权。
 * [arugal/frp-notify](https://github.com/arugal/frp-notify) - 一个专注于消息通知的服务端管理插件，支持钉钉和 gotify 。
 * [zfb132/frp_info](https://github.com/zfb132/frp_info) - 屏蔽或允许指定IP的用户建立SSH连接。
+* [frps-multiuser](https://github.com/yhl452493373/frps-multiuser) - 带管理界面的多用户管理插件，可以动态管理用户，可以限制用户端口、自定义域名、子域名
